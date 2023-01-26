@@ -75,9 +75,9 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue=""https://github.com/jpedrocarvalho/Exide/blob/main/OutlookSignatureAddIn/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue=""https://github.com/jpedrocarvalho/Exide/blob/main/OutlookSignatureAddIn/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue=""https://github.com/jpedrocarvalho/Exide/blob/main/OutlookSignatureAddIn/assets/icon-64.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://github.com/jpedrocarvalho/Exide/blob/main/OutlookSignatureAddIn/assets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://github.com/jpedrocarvalho/Exide/blob/main/OutlookSignatureAddIn/assets/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://github.com/jpedrocarvalho/Exide/blob/main/OutlookSignatureAddIn/assets/icon-64.png"/>
       </bt:Images>
       <bt:Urls>
         <bt:Url id="Taskpane.Url" DefaultValue="https://github.com/jpedrocarvalho/Exide/blob/main/OutlookSignatureAddIn/taskpane.html"/>
